@@ -1,0 +1,75 @@
+body{
+    background-color: darkslategray;
+    margin: 0;
+    padding: 0;
+}
+.wrap{
+    width: 1200px;
+    margin: 10px auto;
+    color: white;
+    padding: 15px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.btn1{
+    display: inline-block;
+    width: 160px;
+    padding: 15px 25px;
+    text-decoration: none;
+    color:orangered;
+    border: 2px solid orangered;
+    border-radius: 10px;
+    margin: 0 40px;
+}
+.btn2{
+    background-image: url(../rasmlar/green2.png);
+    width: 160px;
+    display: inline-block;
+    padding: 15px 25px;
+    text-decoration: none;
+    color: white;
+    border: 2px solid;
+    border-radius: 30px;
+    margin: 0 40px;
+}
+.btn3{
+    display: inline-block;
+    width: 160px;
+    padding: 15px 25px;
+    text-decoration: none;
+    color:white;
+    border-top-right-radius: 3px solid #00a6ff;
+    background-color: #00a6ff;
+    border-radius: 20px;
+    margin: 0 40px;
+}
+.btn4{
+    display: inline-block;
+    width: 160px;
+    padding: 15px 25px;
+    text-decoration: none;
+    color:white;
+    border-top-right-radius: 3px solid hsl(56, 100%, 50%);
+    background-color:hsl(56, 100%, 50%);
+    border-radius: 20px;
+    margin: 0 40px;
+}
+.btn5{
+    display: inline-block;
+    width: 160px;
+    padding: 15px 25px;
+    text-decoration: none;
+    color: #dc54dc;
+    border: 2px solid #dc54dc;
+    margin: 0 40px;
+}
+.btn6{
+    display: inline-block;
+    width: 160px;
+    padding: 15px 25px;
+    text-decoration: none;
+    color:#51da51;
+    border: 2px solid #51da51;
+    border-radius: 30px;
+    margin: 0 40px;
+}
