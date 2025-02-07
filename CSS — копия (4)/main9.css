@@ -1,0 +1,44 @@
+body{
+    width: 1200px;
+    padding: 20px auto;
+    background-color: darkgray;
+}
+.text-block{
+    width: 450px;
+    height: 80px;
+    background-color: white;
+    border:1px solid white;
+    margin-left: 30px;
+}
+.p{
+    font-size: 13px;
+    margin-left: 10px;
+}
+.img{
+    position:absolute;
+    left:350px;
+    top:40px;
+}
+.text-block-item-1{
+    width: 120px;
+    height: 120px;
+    position: relative;
+}
+.h2{
+
+    color: red;
+    font-style: italic;
+    margin-left: 10p;
+}
+.h3{
+    color: red;
+    font-style: italic;
+    margin-left: 10px;
+}
+.text-block-item-3{
+    width: 90px;
+    height: 90px;
+    background-color: red;
+    border:1px solid ;
+}
+

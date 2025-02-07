@@ -1,0 +1,21 @@
+body{
+    background-color: #75f7fc;
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: white;
+}
+.navbar-menu{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+.navbar-item{
+    display: inline-block;
+    padding: 25px 10px;
+}
+.navbar-item {
+    color: gray;
+    text-decoration: none;
+}
